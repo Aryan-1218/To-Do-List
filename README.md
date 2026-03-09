@@ -29,6 +29,9 @@ todo-list/
 <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/216a136b-2c7d-4bbc-831e-b6fa0cb4668b" />
 
 
+##🌐 Live Demo
+https://aryan-1218.github.io/To-Do-List/
+
 ## Author
 
 Aryan Bhavsar
